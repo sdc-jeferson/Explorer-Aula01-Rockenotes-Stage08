@@ -14,9 +14,21 @@ Projeto realizado durante o programa Explorer da Rocketseat. Localizado no níve
 </p>
 
 <p>Imagem Banco de Dados </p>
-<img alt="Print Space cream mobile" src=".github/banco_previwe.PNG" "/
+<img alt="Print Space cream mobile" src=".github/banco_previwe.PNG" "/>
 
-# 📬 Conhecendo o Node.js
+
+## 🧪 Tecnologias 
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" width="52" alt="sqlite logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
+                    
+</div>
+
+
+## 📬 Conhecendo o Node.js
 
 🚀 O que é uma API? </br>
 🚀 O que é o Node.js? </br>
@@ -25,7 +37,7 @@ Projeto realizado durante o programa Explorer da Rocketseat. Localizado no níve
 🚀 v8 Engine </br>
 🚀 O funcionamento do Node.js
 
-## 🤔 O que aprendi após finalizar esse módulo?
+## O que aprendi após finalizar esse módulo?
 
 - [ ] O que é API;
 - [ ] O que é o Node.js;
@@ -34,7 +46,7 @@ Projeto realizado durante o programa Explorer da Rocketseat. Localizado no níve
 - [ ] O que é a v8 Engine;
 - [ ] Como funciona o Node.js;
 
-# Criando uma aplicação Node.js
+## Criando uma aplicação Node.js
 
 🚀 Iniciando um projeto Node.js </br>
 🚀 Adicionando Express </br>
@@ -59,7 +71,7 @@ Projeto realizado durante o programa Explorer da Rocketseat. Localizado no níve
 🚀 Tratando exceções </br>
 🚀 Configurando o Insomnia
 
-## 🤔 O que aprendi após finalizar esse módulo?
+### O que aprendi após finalizar esse módulo?
 
 - [ ] Iniciar um projeto Node.js;
 - [ ] Adicionar Express no projeto;
@@ -76,7 +88,7 @@ Projeto realizado durante o programa Explorer da Rocketseat. Localizado no níve
 - [ ] Middleware;
 - [ ] Lidar com erros na API;
 
-# SQL
+## SQL
 
 🚀 O que é um banco de dados </br>
 🚀 Estrutura do banco de dados </br>
@@ -96,7 +108,7 @@ Projeto realizado durante o programa Explorer da Rocketseat. Localizado no níve
 🚀 Datetime do Banco </br>
 🚀 Validando nome e e-mail
 
-## 🤔 O que aprendi após finalizar esse módulo?
+### O que aprendi após finalizar esse módulo?
 
 - [ ] O que é um banco de dados;
 - [ ] Como conectar um banco de dados SQLite;
@@ -108,7 +120,7 @@ Projeto realizado durante o programa Explorer da Rocketseat. Localizado no níve
 - [ ] Criptografar senhas no banco de dados;
 - [ ] Validações no back-end;
 
-# Query Builder
+## Query Builder
 
 🚀 O que é um SQL Query Builder </br>
 🚀 Instalando Knex.js </br>
@@ -124,7 +136,7 @@ Projeto realizado durante o programa Explorer da Rocketseat. Localizado no níve
 🚀 Aplicando Inner Join </br>
 🚀 Map e Filter
 
-## 🤔 O que aprendi após finalizar esse módulo?
+### O que aprendi após finalizar esse módulo?
 
 - [ ] SQL Query Builder;
 - [ ] Instalar Knex/js;
